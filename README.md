@@ -30,8 +30,9 @@ O foco principal foi entender a estrutura de componentes, organização do proje
 <br>
 
 
-🚀 Deploy do projeto:  
-https://product-card-two-zeta.vercel.app/
+🚀 Deploy do projeto:
+<a href="https://product-card-two-zeta.vercel.app/" target="_blank">Deploy</a>
+
 
 ---
 
@@ -80,6 +81,9 @@ http://localhost:5173
 - Uso do Vite para ambiente de desenvolvimento
 
 ## 👤 Autor
-Desenvolvido por **Vitor Madeira**  
-<a href="https://www.linkedin.com/in/vitor-madeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+    <p>Desenvolvido por <strong>Vitor Madeira</strong></p>
+    <a href="https://www.linkedin.com/in/vitor-madeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "mailto:vitorsoutom@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
